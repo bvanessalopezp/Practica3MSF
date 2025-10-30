@@ -1,4 +1,4 @@
-# Practica3MSF[README.md](https://github.com/user-attachments/files/23225624/README.md)
+# Practica3MSF
 \[!\[Open in MATLAB Online]
 
 # Práctica: Sistema musculoesquelético
